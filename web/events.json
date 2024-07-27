@@ -1,0 +1,13 @@
+[
+    {
+        "date": "1990-01-01",
+        "title": "Událost A",
+        "description": "Popis události A."
+    },
+    {
+        "date": "2000-05-05",
+        "title": "Událost B",
+        "description": "Popis události B."
+    }
+    // Další události
+]
